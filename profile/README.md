@@ -3,7 +3,7 @@ Indie development team primarily making video games.
 
 ## Socials
 - [Website](https://www.wackywizards.org/)
-- 
+  
 - [S&box Org](https://sbox.game/wizards)
 
 - [Discord Server](https://www.wackywizards.org/discord)
