@@ -1,7 +1,6 @@
 # Wacky Wizards
-Indie development team
 
-## Socials
+### Socials
 - [Website](https://www.wackywizards.org/)
   
 - [Discord Server](https://www.wackywizards.org/discord)
