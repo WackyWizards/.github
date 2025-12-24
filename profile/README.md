@@ -1,5 +1,5 @@
 # Wacky Wizards
-Indie development team primarily making video games.
+Indie development team
 
 ## Socials
 - [Website](https://www.wackywizards.org/)
