@@ -1,5 +1,3 @@
-# Wacky Wizards
-
 ### Socials
 - [Website](https://www.wackywizards.org/)
   
